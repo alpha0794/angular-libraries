@@ -52,5 +52,5 @@
     "url": "https://github.com/alpha0794/angular-libraries/issues"
   },
   "homepage": "https://github.com/alpha0794/angular-libraries#readme",
-  "typings": "./dist/definitions/index.d.ts"
+  "typings": "./dist/my-lib/public-api.d.ts"
 }
