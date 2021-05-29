@@ -1,6 +1,6 @@
 {
   "name": "npm-my-lib",
-  "version": "1.0.6",
+  "version": "1.0.5",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -51,6 +51,5 @@
   "bugs": {
     "url": "https://github.com/alpha0794/angular-libraries/issues"
   },
-  "homepage": "https://github.com/alpha0794/angular-libraries#readme",
-  "typings": "./dist/my-lib/public-api.d.ts"
+  "homepage": "https://github.com/alpha0794/angular-libraries#readme"
 }
