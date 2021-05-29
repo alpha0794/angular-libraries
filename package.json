@@ -1,5 +1,5 @@
 {
-  "name": "gk-my-lib",
+  "name": "npm-my-lib",
   "version": "1.0.1",
   "scripts": {
     "ng": "ng",
