@@ -1,6 +1,6 @@
 {
   "name": "my-lib",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "~11.2.13",
     "@angular/common": "~11.2.13",
@@ -41,5 +41,15 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~4.1.5"
-  }
+  },
+  "author": "Gowtham Kumar B V",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpha0794/angular-libraries.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alpha0794/angular-libraries/issues"
+  },
+  "homepage": "https://github.com/alpha0794/angular-libraries#readme"
 }
